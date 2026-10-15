@@ -1,0 +1,4 @@
+openai==1.61.1
+pandas
+tqdm
+ipython
